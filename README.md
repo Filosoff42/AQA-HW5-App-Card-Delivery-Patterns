@@ -1,0 +1,1 @@
+# App-Card-Delivery-Patterns [![Build status](https://ci.appveyor.com/api/projects/status/qdxq1xyeyxt3x1ge?svg=true)](https://ci.appveyor.com/project/Filosoff42/aqa-hw5-app-card-delivery-patterns)
